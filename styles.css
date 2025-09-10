@@ -17,10 +17,6 @@ body {
   padding: 2rem;
 }
 
-a {
-  color: #fff;
-}
-
 /* Container to scale layout */
 .container {
   max-width: 800px;
