@@ -39,6 +39,22 @@ body {
   margin-bottom: 2rem;
 }
 
+a {
+  color: white; /* Applies to unvisited and visited links */
+}
+
+a:visited {
+  color: white; /* Ensures visited links are also white */
+}
+
+a:hover {
+  color: white; /* Keeps links white when hovered over */
+}
+
+a:active {
+  color: white; /* Keeps links white when clicked/active */
+}
+
 /* Image Style */
 .image {
   max-width: 100%;
